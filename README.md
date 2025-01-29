@@ -50,4 +50,4 @@ O projeto utiliza `Skeleton CSS` para a estrutura base e Google Fonts (`Monoton`
 ## 🔗 Links
 
 * [Biblioteca particles.js](https://vincentgarreau.com/particles.js/)
-* [Ver resultado 👈🏼](https://portfolio-moisessantos.vercel.app/)
+* [Ver resultado 👈🏼](https://js-particles-woad.vercel.app/)
